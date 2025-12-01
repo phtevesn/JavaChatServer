@@ -44,6 +44,8 @@ This project implements a multithreaded TCP client–server system in Java, allo
 - /quit – Closes the connection and exits the program.
 
 ## Example Usage
+### Example user: Steven
 ![Example user: Steven](images/ExampleSteven.png)
 
+### Example user: Bob
 ![Example user: Bob](images/ExampleBob.png)
