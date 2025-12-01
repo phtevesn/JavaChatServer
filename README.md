@@ -42,3 +42,8 @@ This project implements a multithreaded TCP client–server system in Java, allo
 - /rejectfile <user> – Declines a file transfer request.
 - /who - Shows a list of online users.
 - /quit – Closes the connection and exits the program.
+
+## Example Usage
+![Example user: Steven](images/ExampleSteven.png)
+
+![Example user: Bob](images/ExampleBob.png)
